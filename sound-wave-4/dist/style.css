@@ -1,0 +1,13 @@
+html,
+body {
+  overflow: hidden;
+  background: rgb(255, 120, 120);
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  z-index: 3;
+}
+#canvas2 {
+  /* position: absolute; */
+  z-index: 2;
+}
